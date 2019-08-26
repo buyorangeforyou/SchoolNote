@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7622cb03-f2e6-47d8-9f59-682b828b21ad" name="Default Changelist" comment="" />
+    <list default="true" id="7622cb03-f2e6-47d8-9f59-682b828b21ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/AndroidSDK" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssmdemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/ypi/controller" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,11 +63,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_project\SchoolNote\src\main\java\com\ypi\controller" />
       <recent name="E:\Java_project\SchoolNote\src\main\webapp\WEB-INF" />
       <recent name="E:\Java_project\SchoolNote\src\main\java\com\ypi\service" />
       <recent name="E:\Java_project\SchoolNote\src\main\resources" />
       <recent name="E:\Java_project\SchoolNote\src\main\java" />
-      <recent name="E:\Java_project\SchoolNote" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ypi.test" />
@@ -213,7 +215,7 @@
       <updated>1566732305605</updated>
       <workItem from="1566732314219" duration="542000" />
       <workItem from="1566784037480" duration="4378000" />
-      <workItem from="1566797368598" duration="4944000" />
+      <workItem from="1566797368598" duration="5597000" />
     </task>
     <servers />
   </component>
