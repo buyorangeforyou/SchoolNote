@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7622cb03-f2e6-47d8-9f59-682b828b21ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mbg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/bean/Notetalk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/bean/NotetalkExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/bean/Userinfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/bean/UserinfoExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/bean/UserinfoKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/bean/Usernote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/bean/UsernoteExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/dao/NotetalkMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/dao/UserinfoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/dao/UsernoteMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/test/MBGTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ypi/test/MapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dbconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/NotetalkMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserinfoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UsernoteMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -145,6 +123,7 @@
       <updated>1566732305605</updated>
       <workItem from="1566732314219" duration="542000" />
       <workItem from="1566784037480" duration="4378000" />
+      <workItem from="1566797368598" duration="167000" />
     </task>
     <servers />
   </component>
@@ -156,7 +135,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
