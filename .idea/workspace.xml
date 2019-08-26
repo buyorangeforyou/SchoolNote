@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7622cb03-f2e6-47d8-9f59-682b828b21ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ypi/controller/test" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ypi/controller/test" afterDir="false" />
-    </list>
+    <list default="true" id="7622cb03-f2e6-47d8-9f59-682b828b21ad" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +213,7 @@
       <updated>1566732305605</updated>
       <workItem from="1566732314219" duration="542000" />
       <workItem from="1566784037480" duration="4378000" />
-      <workItem from="1566797368598" duration="4014000" />
+      <workItem from="1566797368598" duration="4371000" />
     </task>
     <servers />
   </component>
