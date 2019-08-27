@@ -13,7 +13,6 @@
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
 
-
   <!-- 启动spring容器 -->
   <context-param>
     <param-name>contextConfigLocation</param-name>
