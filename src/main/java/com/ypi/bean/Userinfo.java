@@ -9,8 +9,13 @@ public class Userinfo extends UserinfoKey {
 
     private Integer userNotes;
 
-    public  Userinfo(Integer id, String userName){
-        super(id, userName);
+    public Userinfo (){}
+
+    public Userinfo(String userPassword, Integer userLevel, String userNick, Integer userNotes) {
+        this.userPassword = userPassword;
+        this.userLevel = userLevel;
+        this.userNick = userNick;
+        this.userNotes = userNotes;
     }
 
     public Userinfo(Integer id, String userName, String userPassword, Integer userLevel, String userNick, Integer userNotes) {
